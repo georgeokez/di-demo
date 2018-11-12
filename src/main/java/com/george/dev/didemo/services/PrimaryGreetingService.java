@@ -13,6 +13,6 @@ public class PrimaryGreetingService implements GreetingService {
 
     @Override
     public String sayGreeting(){
-        return "Hello - Primary Gretting service";
+        return "Hola mundo"; // hello World in Spanish
     }
 }
